@@ -1,5 +1,5 @@
 # Math fun
-Math fun is a cool program that helps students remember rules they learned. <br>
+Math fun is a cool program that me and my teacher are making. <br>
 ## installation and usage
 
 * Install python 3 from python.org
