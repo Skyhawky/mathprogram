@@ -1,3 +1,4 @@
+<img src = "img/Logo.png">
 # Math fun
 Math fun is a cool program that me and my teacher are making. <br>
 ## installation and usage
