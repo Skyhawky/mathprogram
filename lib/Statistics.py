@@ -1,5 +1,3 @@
-
-
 intList = []
 numberList = []
 
@@ -35,7 +33,7 @@ def mean():
 
 def median():
     prompt()
-    print("The median is the middle number of a sorted list of data, or if you have an odd amount of numbers it's the average of the two middle numbers")
+    print("The median is the middle number of a sorted list of data, or if you have an even amount of numbers it's the average of the two middle numbers")
     intList.sort()
     lengthOfNumList = len(intList)
     index = lengthOfNumList//2
